@@ -28,11 +28,8 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: 
-        level: 
-
-      - idiom: 
-        level: 
+      - idiom: Japanese
+        level: Sufficient for survival in Japan
 
     interests:
       - item: Climbing
@@ -69,18 +66,12 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: B.CompSci (Hons.)
+      university: University of Manitoba
+      time: 2011 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - GPA: 4.14/4.5
+          - Awards: President's Scholarship (2011-2015, $5000 over 4 years, academic excellence of maintaining over 95%); UMSU Scholarship (2012, $500, given to top 5% in Faculty of Science)
 
 experiences:
     - role: Lead Developer
