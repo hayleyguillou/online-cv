@@ -42,15 +42,13 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Hire Me!
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I like to solve problems. Even as a child, I had an analytic way of thinking. Often I would annoy my family by changing the way we did things to be more efficient (they usually thanked me later). Now that I've found programming, I feel unstoppable. 
 
-      Second paragraph if required.
+      What gets me excited are people-oriented problems. I strive to bridge the gap between ordinary people and extraordinary technology. I want to help people live easier and more fulfilling lives through technology without pain points and extreme learning curves. 
+
+      I’ll be looking for new problems to solve starting in November 2019. If you’ve got a doozy you need a hand with, feel free to contact me directly at hayleyguillou at gmail dot com.
 
 education:
     - degree: MSc in Computer Science
@@ -71,7 +69,7 @@ education:
       time: 2011 - 2016
       details: |
         GPA: 4.14/4.5
-        
+
         Awards: 
           - President's Scholarship (2011-2015, $5000 over 4 years, academic excellence of maintaining over 95%)
           - UMSU Scholarship (2012, $500, given to top 5% in Faculty of Science)
