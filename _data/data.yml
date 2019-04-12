@@ -32,7 +32,7 @@ sidebar:
         level: Sufficient for survival in Japan
 
     interests:
-      - item: Hiking
+      - item: Travel and Hiking
         link:
 
       - item: Crafting
@@ -129,24 +129,24 @@ publications:
     
     papers:
       - title: CRA-W Grad Cohort for Women
-        authors: Two-time workshop participant
-        conference: San Francisco (2018), Chicago (2018)
+        authors: San Francisco (2018), Chicago (2018)
+        conference: Two-time workshop participant
       
       - title: Biomedical Imaging and Artificial Intelligence Hackathon
-        authors: Mentor and judge
-        conference: University of British Columbia (2018)
+        authors: University of British Columbia (2018)
+        conference: Mentor and judge
       
       - title: GIRLsmarts outreach program
-        authors: Volunteer instructor teaching HTML to girls in grade 7
-        conference: University of British Columbia (2018)
+        authors: University of British Columbia (2018)
+        conference: Volunteer instructor teaching HTML to girls in grade 7
         
       - title: Azbil Technology Conference
-        authors: Poster and presentation comparing CouchDB and Cassandra 
-        conference: Fujisawa, Japan (2016)
+        authors: Fujisawa, Japan (2016) 
+        conference: Poster and presentation comparing CouchDB and Cassandra
         
       - title: GRAND-NCE National Conference
-        authors: Poster
-        conference: Ottawa, ON (2014)
+        authors: Ottawa, ON (2014)
+        conference: Poster presenting HCI research
       
 
 skills:
