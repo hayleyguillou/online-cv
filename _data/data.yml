@@ -130,17 +130,27 @@ projects:
 publications:
     title: Community Participation
     intro: |
+    
+    papers:
+      - title: CRA-W Grad Cohort for Women
+        authors: Two-time workshop participant
+        conference: San Francisco (2018), Chicago (2018)
       
-      CRA-W Grad Cohort for Women  (2018, 2019) - Workshop participant
+      - title: Biomedical Imaging and Artificial Intelligence Hackathon
+        authors: Mentor and judge
+        conference: University of British Columbia (2018)
       
-      Biomedical Imaging and Artificial Intelligence Hackathon (2018) - mentor & judge
-      
-      GirlSmarts - volunteering
-      
-      Azbil Technology Conference - poster & presenter
-      
-      GRAND-NCE national conference - poster
-      
+      - title: GIRLsmarts outreach program
+        authors: Volunteer instructor teaching HTML to girls in grade 7
+        conference: University of British Columbia (2018)
+        
+      - title: Azbil Technology Conference
+        authors: Poster and presentation comparing CouchDB and Cassandra 
+        conference: Fujisawa, Japan (2016)
+        
+      - title: GRAND-NCE National Conference
+        authors: Poster
+        conference: Ottawa, ON (2014)
       
 
 skills:
