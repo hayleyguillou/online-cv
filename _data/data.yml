@@ -90,14 +90,10 @@ experiences:
       time: Sept. 2014 - Dec. 2014
       company: Protegra - Winnipeg, MB
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - Created an iOS conference schedule app in Objective-C and a corresponding Android app in Java.
+          - Created a front-end database manager for administrative database tasks to update the apps using C# and WPF in Visual Studio.
+          - Managed SQL and SQLite databases as well as cloud-based web services (Microsoft Azure) using REST and JSON.
+          - Participated in	business analyst tasks, such as gap analyses and writing requests for proposal.
 
 projects:
     title: Projects
