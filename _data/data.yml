@@ -32,13 +32,13 @@ sidebar:
         level: Sufficient for survival in Japan
 
     interests:
-      - item: Climbing
+      - item: Hiking
         link:
 
-      - item: Snowboarding
+      - item: Crafting
         link:
 
-      - item: Cooking
+      - item: 
         link:
 
 career-profile:
@@ -55,11 +55,7 @@ education:
       university: University of British Columbia
       time: 2017 - 2019
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        
 
           - Bullet point
           - Bullet point
@@ -75,9 +71,9 @@ education:
           - UMSU Scholarship (2012, $500, given to top 5% in Faculty of Science)
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Developer
+      time: Jan. 2017 - Aug. 2017
+      company: Varian Medical Systems - Winnipeg, MB
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -92,22 +88,19 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Junior Software Architect and Researcher
+      time: May 2015 - Apr. 2016
+      company: Azbil Corporation - Fujisawa, Japan
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - Architected a cloud application to remotely monitor and control PLC controllers in factories worldwide, eliminating the need to physically go to the factory to retrieve the controller’s data and set parameters.
+          - Developed multiple cloud application prototypes using Node.js, Express, jQuery, and Jade to demonstrate database functionality and potential user interfaces.
+          - Designed the application data model for Cassandra to optimize query time.
+          - Ran seminars to explain distributed NoSQL database concepts as well as the mechanical details of CouchDB and Cassandra to my Japanese co-workers using simple English, Japanese, and an abundance of relatable analogies and diagrams.
+          - Wrote technical reports and extensive documentation explaining findings and architectural decisions for senior managers and future developers.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Developer
+      time: Sept. 2014 - Dec. 2014
+      company: Protegra - Winnipeg, MB
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
