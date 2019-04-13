@@ -49,7 +49,7 @@ career-profile:
       I’ll be looking for new problems to solve starting in November 2019. If you’ve got a doozy you need a hand with, feel free to contact me directly at hayleyguillou at gmail dot com.
 
 education:
-    - degree: MSc in Computer Science
+    - degree: Master of Science in Computer Science
       university: University of British Columbia
       time: 2017 - 2019
       details: |
@@ -58,7 +58,7 @@ education:
           - Thesis-based Masters program investigating how knowledge workers evaluate their personal productivity as a concept called "Time Well Spent"
           - Teaching Assistant for UBC's Master of Data Science program in information visualization
 
-    - degree: B.CompSci (Hons.)
+    - degree: Bachelor of Computer Science (Honours)
       university: University of Manitoba
       time: 2011 - 2016
       details: |
@@ -103,7 +103,7 @@ projects:
     assignments:
       
       - title: Sensing Interruptions using Psycho-physiological Sensors
-        link: "#"
+        link: ""
         tagline: "Course project exploring whether interruptions cause measurable changes in brain activity and head position."
 
       - title: Project Euler
