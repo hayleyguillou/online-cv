@@ -44,9 +44,7 @@ sidebar:
 career-profile:
     title: Hire Me!
     summary: |
-      I like to solve problems. Even as a child, I had an analytic way of thinking. Often I would annoy my family by changing the way we did things to be more efficient (they usually thanked me later). Now that I've found programming, I feel unstoppable. 
-
-      What gets me excited are people-oriented problems. I strive to bridge the gap between ordinary people and extraordinary technology. I want to help people live easier and more fulfilling lives through technology without pain points and extreme learning curves. 
+      My passion is designing and creating user-centred products. I have experience with full-stack and front-end development as well as research experience in understanding users. 
 
       I’ll be looking for new problems to solve starting in November 2019. If you’ve got a doozy you need a hand with, feel free to contact me directly at hayleyguillou at gmail dot com.
 
@@ -75,7 +73,9 @@ experiences:
       time: Jan. 2017 - Aug. 2017
       company: Varian Medical Systems - Winnipeg, MB
       details: |
-          - 
+          - Developed features using Java, Angular, Typescript, and SaSS in a web-based oncology management product, 360 Oncology. 
+          - Led effort to standardize UI elements across the application.
+          - Wrote back-end RESTful API services in Dropwizard.
 
     - role: Junior Software Architect and Researcher
       time: May 2015 - Apr. 2016
@@ -98,22 +98,13 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Here's a mix of my research and side programming projects.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      
+      - title: Sensing Interruptions using Psycho-physiological Sensors
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Course project exploring whether interruptions cause measurable changes in brain activity and head position."
 
       - title: Project Euler
         link: "https://github.com/hayleyguillou/eul"
@@ -128,6 +119,10 @@ publications:
     intro: |
     
     papers:
+      - title: VP of the Computer Science Grad Student Association
+        authors: University of British Columbia (2018-2019)
+        conference: Elected position for organizing department social events.
+    
       - title: CRA-W Grad Cohort for Women
         authors: San Francisco (2018), Chicago (2018)
         conference: Two-time workshop participant
@@ -153,23 +148,17 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
-        level: 98%
-
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Git
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
